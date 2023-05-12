@@ -1,0 +1,21 @@
+Juliana Freitas
+5.6 7.8 4.5 6.7
+Bryan Oliveira
+5.6 3.5 7.8 6.9
+Daniela Ferreira
+9.8 7.8 6.3 9.2
+Nina Cavalcanti
+4.5 3.8 6.8 9.6
+Marcos Vinicius da Mata
+5.6 7.8 9.5 4.6
+Vinicius Almeida
+4.6 1.9 5.6 9.0
+Elisa Rocha
+5.6 8.9 6.7 8.9
+Gabrielly da Paz
+4.6 8.6 2.4 3.5
+Maria Alice Nunes
+5.6 8.9 5.7 4.5
+Ana Carolina Peixoto
+5.6 8.9 5.7 8.3
+0
